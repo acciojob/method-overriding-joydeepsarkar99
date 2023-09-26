@@ -15,6 +15,7 @@ public class Main {
         B obj1 = new B();
         obj1.meth();
 
+        //to check method override
         B obj2 = new B();
         obj2.meth();
     }
